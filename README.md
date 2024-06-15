@@ -8,7 +8,7 @@
 * The CI (Continous Integration) script to apply CI process
 
 ### Screenshots
-![Source code and Unit Test]([https://github.com/th3y3m/math-util/blob/main/screenshots/SourceCodeAndUnitTest.png](https://github.com/th3y3m/unit-testing-using-nunit/blob/main/screenshots/sourceCode.png))
+![Source code and Unit Test](https://github.com/th3y3m/unit-testing-using-nunit/blob/main/screenshots/sourceCode.png)
 
 #### Connect me via: truongtanhuy3006@gmail.com
 
