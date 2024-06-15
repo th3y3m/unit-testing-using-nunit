@@ -1,3 +1,5 @@
+[![.NET](https://github.com/th3y3m/unit-testing-using-nunit/actions/workflows/ci-script.yml/badge.svg)](https://github.com/th3y3m/unit-testing-using-nunit/actions/workflows/ci-script.yml)
+
 # Welcome to Check Prime Repository
 
 ## You wil find in thí repo the following stuff
