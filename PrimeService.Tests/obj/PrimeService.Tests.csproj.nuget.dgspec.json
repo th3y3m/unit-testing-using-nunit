@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
+    "E:\\15-6\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
   },
   "projects": {
-    "E:\\C#\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj": {
+    "E:\\15-6\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "projectUniqueName": "E:\\15-6\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
         "projectName": "PrimeService.Tests",
-        "projectPath": "E:\\C#\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "projectPath": "E:\\15-6\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\unit-testing-using-nunit\\PrimeService.Tests\\obj\\",
+        "outputPath": "E:\\15-6\\unit-testing-using-nunit\\PrimeService.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\C#\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
-                "projectPath": "E:\\C#\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj"
+              "E:\\15-6\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
+                "projectPath": "E:\\15-6\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "E:\\C#\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
+    "E:\\15-6\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
+        "projectUniqueName": "E:\\15-6\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
         "projectName": "PrimeService",
-        "projectPath": "E:\\C#\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
+        "projectPath": "E:\\15-6\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\unit-testing-using-nunit\\PrimeService\\obj\\",
+        "outputPath": "E:\\15-6\\unit-testing-using-nunit\\PrimeService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
