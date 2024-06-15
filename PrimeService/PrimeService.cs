@@ -8,6 +8,13 @@ public class PrimeService
         {
             return false;
         }
-        throw new NotImplementedException("Please create a test first.");
+        for (int i = 2; i <= Math.Sqrt(candidate); i++)
+        {
+            if (candidate % i == 0)
+            {
+                return false;
+            }
+        }
+        return true;
     }
 }
